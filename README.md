@@ -1,5 +1,5 @@
 ### bikesharing
-![](images/introbikesharing.png)
+![](introbikesharing.png)
 
 ### Project title: Presenting your prospective Angel investor with the right answers
 
@@ -11,4 +11,4 @@ A review of the August 2019 data was used as part of my preliminary analysis. Th
 
 ## The below visual data is used to aggregate the data found in the Citi Bike Trip for August 2019 to build a data dashboard, story, or report.  
 
-
+![](times for users.png)
