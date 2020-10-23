@@ -1,4 +1,5 @@
 ### bikesharing
+![](images/introbikesharing.png)
 
 ### Project title: Presenting your prospective Angel investor with the right answers
 
